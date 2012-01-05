@@ -1,15 +1,15 @@
 [submodule "lib/sync"]
-  path = lib/sync
-  url = git://github.com/rustyio/sync.git
+	path = lib/sync
+	url = git://github.com/rustyio/sync.git
 [submodule "lib/simple_bridge"]
-  path = lib/simple_bridge
-  url = git://github.com/nitrogen/simple_bridge.git
+	path = lib/simple_bridge
+	url = git://github.com/nitrogen/simple_bridge.git
 [submodule "lib/nprocreg"]
-  path = lib/nprocreg
-  url = git://github.com/nitrogen/nprocreg.git
+	path = lib/nprocreg
+	url = git://github.com/nitrogen/nprocreg.git
 [submodule "lib/nitrogen_core"]
-  path = lib/nitrogen_core
-  url = git://github.com/nitrogen/nitrogen_core.git
+	path = lib/nitrogen_core
+	url = git://github.com/nitrogen/nitrogen_core.git
 [submodule "lib/mochiweb"]
-  path = lib/mochiweb
-  url = git://github.com/mochi/mochiweb.git
+	path = lib/mochiweb
+	url = git://github.com/mochi/mochiweb.git
