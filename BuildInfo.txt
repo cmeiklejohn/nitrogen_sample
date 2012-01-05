@@ -1,0 +1,5 @@
+Nitrogen Version:
+2.1.0
+
+Built On (uname -v):
+#1 SMP Sat Aug 27 16:21:11 UTC 2011
