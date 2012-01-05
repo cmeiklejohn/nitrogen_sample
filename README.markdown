@@ -1,3 +1,5 @@
+# Sample nitrogen chat application
+
 ## Usage
 
 ```bash

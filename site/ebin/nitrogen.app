@@ -1,5 +1,5 @@
 {application,nitrogen,
-             [{description,"My Nitrogen Web Project"},
+             [{description,"Sample nitrogen chat application"},
               {vsn,"1"},
               {registered,[]},
               {applications,[kernel,stdlib]},
